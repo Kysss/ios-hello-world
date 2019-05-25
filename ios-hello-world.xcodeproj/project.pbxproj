@@ -12,6 +12,7 @@
 		DADB5CE52299039F003C98FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DADB5CE32299039F003C98FA /* Main.storyboard */; };
 		DADB5CE7229903A1003C98FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DADB5CE6229903A1003C98FA /* Assets.xcassets */; };
 		DADB5CEA229903A1003C98FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DADB5CE8229903A1003C98FA /* LaunchScreen.storyboard */; };
+		DADB5CF2229904D3003C98FA /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = DADB5CF1229904D2003C98FA /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DADB5CE6229903A1003C98FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DADB5CE9229903A1003C98FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DADB5CEB229903A1003C98FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DADB5CF1229904D2003C98FA /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		DADB5CDE2299039F003C98FA /* ios-hello-world */ = {
 			isa = PBXGroup;
 			children = (
+				DADB5CF1229904D2003C98FA /* hustle-on.wav */,
 				DADB5CDF2299039F003C98FA /* AppDelegate.swift */,
 				DADB5CE12299039F003C98FA /* ViewController.swift */,
 				DADB5CE32299039F003C98FA /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DADB5CF2229904D3003C98FA /* hustle-on.wav in Resources */,
 				DADB5CEA229903A1003C98FA /* LaunchScreen.storyboard in Resources */,
 				DADB5CE7229903A1003C98FA /* Assets.xcassets in Resources */,
 				DADB5CE52299039F003C98FA /* Main.storyboard in Resources */,
